@@ -3,7 +3,7 @@
 
 An end-to-end AI web application that classifies lung CT scan images as **Cancerous** or **Normal** using a trained Convolutional Neural Network (CNN), served through a Flask backend with a clean web interface.
 
-> **GitHub:** [cancer-detection-CNN-model-and-flask-web-app](https://github.com/JaveriaBaloch/cancer-detection-CNN-model-and-flask-web-app)
+> **GitHub:** [https://github.com/JaveriaBaloch/LungGuard](https://github.com/JaveriaBaloch/LungGuard)
 
 ---
 
@@ -132,7 +132,7 @@ Ensure the `model.h5` path is correctly specified in `webApp.py`. If the model f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JaveriaBaloch/cancer-detection-CNN-model-and-flask-web-app.git
+   git clone https://github.com/JaveriaBaloch/LungGuard
    ```
 
 2. Install dependencies:
